@@ -1,15 +1,15 @@
 # lista de fruras
 fruits = ["manzana", "banana", "cereza"]
 
-# recorrer la lista con un ciclo for
-# for fruit in fruits:
-#     # print(fruit)
-#     if fruit == "manzana":
-#         print("encontré una manzana")
-#         print()
-#     break
-    #else:
-        #print("no hay una manzana")
+
+#     else:
+#         print("no hay una# recorrer la lista con un ciclo for
+#  for fruit in fruits:
+#      # print(fruit)
+#      if fruit == "manzana":
+#          print("encontré una manzana")
+#           print()
+#      break manzana")
 
 #for fruit in len(fruits):
 #print(len(fruits))

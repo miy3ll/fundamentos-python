@@ -1,10 +1,11 @@
 # estructuras de datos en python
 # enteros
 number = 10
+# print(type(number)) # <class 'int'>
 
 # flotantes
 pi = 3.14
-# print(type(number)) # <class 'int'>
+# print(type(number)) # <class 'float'>
 
 # cadenas de texto
 greeting = "Hola, mundo"
@@ -48,10 +49,12 @@ persona = {
     "nombre": "Alice",
     "edad": 30,
     "ciudad": "Wonderland",
-    "comida_favorita": ["tarta", "té"]
+    "comida_favorita": ["tarta", "té"],
+    "profesion": "adventurer"
 }
-print(persona["nombre"])
-print(persona["edad"])
+# print(persona["nombre"])
+# print(persona["edad"])
 
-persona["profesion"] = "adventurer"
-print(persona)
+# persona["profesion"] = "adventurer"
+# print(persona)
+
